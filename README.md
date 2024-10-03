@@ -1,0 +1,1 @@
+Bienvenido a las tareas de juve profe, aqui adjunte las dos tareas, espero que este bien la verdad no habia trabajado con python y tuve que buscar mucha ayuda en internet y espero que sea correcta la informacion que puse con la que era la requerida. Salduos
